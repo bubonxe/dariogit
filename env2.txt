@@ -1,3 +1,0 @@
-TWITTER_API_KEY="qwertyuiopasdfghjklzx12"
-AWS_KEY = \"AKIALALEMEL33243OLIAE\""
-DB_PASSWORD="dariorivas"
